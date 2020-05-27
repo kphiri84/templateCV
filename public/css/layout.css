@@ -325,20 +325,20 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+.reactjs {
+  	width: 35%;
+  	-moz-animation: reactjs 2s ease;
+  	-webkit-animation: reactjs 2s ease;
 }
 .illustrator {
   	width: 55%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.nodejs {
+  	width:35%;
+  	-moz-animation: nodejs 2s ease;
+  	-webkit-animation: nodejs 2s ease;
 }
 .css {
   	width: 90%;
@@ -350,23 +350,23 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.git-github {
+  	width: 45%;
+  	-moz-animation: git-github 2s ease;
+  	-webkit-animation: git-github 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes reactjs {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 35%;  }
 }
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 45%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes nodejs {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 35%;  }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
@@ -376,22 +376,22 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes git-github {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 40%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes reactjs {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 35%;  }
 }
 @-webkit-keyframes illustrator {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 45%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes nodejs {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 35%;  }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
@@ -401,9 +401,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes git-github {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 40%;  }
 }
 
 /* ------------------------------------------------------------------ */
@@ -1004,3 +1004,10 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+/* Lien vers site projet */
+
+.lien {
+   margin-top: 5px;
+   padding: 42px;
+   font-size: 20px;
+}

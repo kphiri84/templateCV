@@ -7,15 +7,18 @@ export default class ContactUs extends Component {
           <div className="row section-head">
             <div className="ten columns">
               <p className="lead">
-              Feel free to contact me for any work or suggestions below
+              Pour toute demande ou suggestions n'hésitez pas à me contacter !
               </p>
             </div>
           </div>
           <div className="row">
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <h4>Linked in :
-                  {resumeData.linkedinId}
+                <h4>Linked in : 
+                  <a href="https://www.linkedin.com/in/kenny-phiri/" target="_blank"> Kenny PHIRI</a>
+                </h4>
+                <h4>Mail :
+                  kenny.phiri84@gmail.com
                 </h4>
               </div>
             </aside>

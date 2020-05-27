@@ -122,7 +122,7 @@ let resumeData = {
         "lien":"https://memory-horror-game.netlify.app/"
       },
       {
-        "name":"Projet 3 (Strope)",
+        "name":"Projet 3 (Storpe)",
         "description":"Projet client pro",
         "imgurl":"https://www.union-dentaire.com/wp-content/uploads/2018/04/projet-en-cours.jpg"
       }

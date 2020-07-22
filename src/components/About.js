@@ -20,7 +20,7 @@ export default class About extends Component {
                  resumeData.aboutme
                }
                </p>
-               <a href="https://www.fichier-pdf.fr/2020/05/27/cv-kenny-dev/cv-kenny-dev.pdf" target="_blank">Télécharger mon CV</a>
+               <a href="https://www.fichier-pdf.fr/2020/07/22/cv-kenny-phiri---dev-web/" target="_blank">Télécharger mon CV</a>
                   </div>
                </div>
       </section>

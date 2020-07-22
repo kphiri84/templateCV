@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"",
     "name": "PHIRI Kenny",
-    "role": "un élève à la Wild Code School de Marseille, je suis en recherche d'un stage en tant développeur Junior web et mobile ReactJS et NodeJS FullStack.",
+    "role": "un élève à la Wild Code School de Marseille en tant que développeur Junior web et mobile ReactJS et NodeJS FullStack.",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
     "roleDescription": "J'aime apprendre les nouvelles technologies, je suis autodidacte, passionné et j'aime partager mes connaissances.",
